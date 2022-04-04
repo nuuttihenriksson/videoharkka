@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/videoharkka/static/js/main.b885996b.js",
+    "static/media/VJP_VideoHarkka_V3.mp4": "/videoharkka/static/media/VJP_VideoHarkka_V3.cac4d96ab70aa3ee57da.mp4",
+    "static/media/videoposter.png": "/videoharkka/static/media/videoposter.673d3f0f62ed146f4391.png",
+    "index.html": "/videoharkka/index.html",
+    "main.b885996b.js.map": "/videoharkka/static/js/main.b885996b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b885996b.js"
+  ]
+}
